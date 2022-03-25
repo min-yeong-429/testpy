@@ -1,16 +1,3 @@
-#리스트의 모든 값을 화면으로 출력하라
-data = [32, 14, 55, 23, 12, 67, 44]
-for k in data :
-    print(k, end=',')
-print ("stop")
-
-#리스트의 값 중에서 짝수 값만을 출력하라
-data = [32, 14, 55, 23, 12, 67, 44]
-for k in data :
-    if k%2==0 :
-        print(k, end=',')
-print("stop")
-
 # 30이상 출력
 data = [32, 14, 55, 23, 12, 67, 44]
 for k in data :
